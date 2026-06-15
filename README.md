@@ -3,8 +3,8 @@
   <img src="src/assets/images/logo.png" width="130" alt="Save A Stray Logo" />
 </p>
 
-<h1 align="center">🐾 Save A Stray Noida — NGO Website Template</h1>
-<p align="center"><em>Inspiring animal rescue NGOs with a responsive, mission-driven website used by Save A Stray Noida.</em></p>
+<h1 align="center">🐾 Save A Stray — Website</h1>
+<p align="center"><em>A responsive, mission-driven website used by Save A Stray Noida.</em></p>
 
 ---
 
